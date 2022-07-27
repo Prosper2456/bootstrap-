@@ -1,0 +1,15 @@
+.nav-pills{
+	background-color: blue;
+}
+
+.nav-link{
+	color: white;
+	font-family: serif;
+	font-size: 20px;
+	word-spacing: 20px;
+}
+
+.nav-link{
+	text-align: right;
+}
+

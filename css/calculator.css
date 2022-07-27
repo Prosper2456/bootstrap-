@@ -1,0 +1,30 @@
+.container{
+ width: 600px;
+ height: 1000px;
+}
+
+.box1{text-align: right;
+	background-color: grey;
+	font-size: 22px;
+	font-family: serif;
+	color: white;
+}
+
+
+.box2{
+	border: solid black;
+	background-color: lightgrey;
+	border-width: 0.1px;
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box3{
+	border: solid black;
+	background-color: orange;
+	color: white;
+	border-width: 0.1px;
+	height: 31px;
+	text-align: center;
+}
